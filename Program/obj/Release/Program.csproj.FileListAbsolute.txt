@@ -1,0 +1,9 @@
+D:\VOC\Program\Program\bin\Release\Program.exe.config
+D:\VOC\Program\Program\bin\Release\Program.exe
+D:\VOC\Program\Program\bin\Release\Program.pdb
+D:\VOC\Program\Program\obj\Release\Program.csprojResolveAssemblyReference.cache
+D:\VOC\Program\Program\obj\Release\Program.Welcome.resources
+D:\VOC\Program\Program\obj\Release\Program.Properties.Resources.resources
+D:\VOC\Program\Program\obj\Release\Program.csproj.GenerateResource.Cache
+D:\VOC\Program\Program\obj\Release\Program.exe
+D:\VOC\Program\Program\obj\Release\Program.pdb

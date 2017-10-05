@@ -1,0 +1,8 @@
+D:\VOC\Program\Program\bin\Debug\Program.exe.config
+D:\VOC\Program\Program\obj\Debug\Program.Properties.Resources.resources
+D:\VOC\Program\Program\obj\Debug\Program.csproj.GenerateResource.Cache
+D:\VOC\Program\Program\bin\Debug\Program.exe
+D:\VOC\Program\Program\bin\Debug\Program.pdb
+D:\VOC\Program\Program\obj\Debug\Program.exe
+D:\VOC\Program\Program\obj\Debug\Program.pdb
+D:\VOC\Program\Program\obj\Debug\Program.Welcome.resources
