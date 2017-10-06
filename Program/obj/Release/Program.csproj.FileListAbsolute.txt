@@ -7,3 +7,12 @@ D:\VOC\Program\Program\obj\Release\Program.Properties.Resources.resources
 D:\VOC\Program\Program\obj\Release\Program.csproj.GenerateResource.Cache
 D:\VOC\Program\Program\obj\Release\Program.exe
 D:\VOC\Program\Program\obj\Release\Program.pdb
+C:\Users\u23702\Desktop\Keylog\Program\bin\Release\Program.exe.config
+C:\Users\u23702\Desktop\Keylog\Program\obj\Release\Program.exe
+C:\Users\u23702\Desktop\Keylog\Program\obj\Release\Program.pdb
+C:\Users\u23702\Desktop\Keylog\Program\bin\Release\Program.exe
+C:\Users\u23702\Desktop\Keylog\Program\bin\Release\Program.pdb
+C:\Users\u23702\Desktop\Keylog\Program\obj\Release\Program.csprojResolveAssemblyReference.cache
+C:\Users\u23702\Desktop\Keylog\Program\obj\Release\Program.Welcome.resources
+C:\Users\u23702\Desktop\Keylog\Program\obj\Release\Program.Properties.Resources.resources
+C:\Users\u23702\Desktop\Keylog\Program\obj\Release\Program.csproj.GenerateResource.Cache
